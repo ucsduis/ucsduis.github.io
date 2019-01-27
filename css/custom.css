@@ -6,3 +6,10 @@
 	height: 500px;
 	margin: 0 auto;
 	display: table;
+}
+
+.speaker-photo {
+	overflow: hidden;
+	max-height: 262.5px;
+	height: 262.5px;
+}
